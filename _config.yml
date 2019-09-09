@@ -1,11 +1,11 @@
 
 # Site settings
-title: Paul E. Soto
-name: Paul E. Soto
-subtitle: Financial Economist
-email: paul.soto@upf.edu
+title: Yaquan Chang
+name: Yaquan Chang
+subtitle: MSc canadidate at nature management
+email: yaquanchang0623@outlook.com
 description: >
-  Financial Economist
+  MSc canadidate
 baseurl: ""
 url: "https://yaquan.github.io/"
 github_username:  YaquanChang
@@ -24,7 +24,7 @@ defaults:
     scope:
       path: ""
     values:
-      author: "Paul E. Soto"
+      author: "Yaquan"
 
 
 
@@ -39,14 +39,9 @@ gems:
 social:
   - name: GitHub
     icon: github
-    username: pesoto
-    url: https://github.com/pesoto
+    username: YaquanChang
+    url: https://github.com/YaquanChang
     desc: Fork me on GitHub
     share: false
 
-  - name: LinkedIn
-    icon: linkedin
-    username: Paul E. Soto
-    url: https://linkedin.com/pesoto
-    desc: Connect with me on LinkedIn
-    share: true
+
