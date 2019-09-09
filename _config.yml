@@ -8,9 +8,9 @@ description: >
   Financial Economist
 baseurl: ""
 url: "https://yaquan.github.io/"
-github_username:  pesoto
-disqus_baseurl: "https://pesoto.github.io/"
-disqus_shortname: https-pesoto-github-io
+github_username:  YaquanChang
+disqus_baseurl: "https://yaquan.github.io/"
+disqus_shortname: https-yaquan-github-io
 permalink: :title
 
 # Build settings
