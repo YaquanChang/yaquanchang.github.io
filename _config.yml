@@ -7,10 +7,10 @@ email: yaquanchang0623@outlook.com
 description: >
   MSc canadidate
 baseurl: ""
-url: "https://yaquan.github.io/"
+url: "https://yaquanchang.github.io/"
 github_username:  YaquanChang
-disqus_baseurl: "https://yaquan.github.io/"
-disqus_shortname: https-yaquan-github-io
+disqus_baseurl: "https://yaquanchang.github.io/"
+disqus_shortname: https-yaquanchang-github-io
 permalink: :title
 
 # Build settings
@@ -24,7 +24,7 @@ defaults:
     scope:
       path: ""
     values:
-      author: "Yaquan"
+      author: "Yaquan Chang"
 
 
 
