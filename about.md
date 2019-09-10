@@ -3,8 +3,8 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-I am currently a financial economist at the Federal Deposit Insurance Corporate (FDIC). I also enjoy teaching and am an adjunct professor for Text Mining for Economics and Finance at the University of Maryland in the Robert H. Smith School of Business. In July 2018, I finished my PhD in Economics from the Universitat Pompeu Fabra and Barcelona Graduate School of Economics. I started my academic career in mathematics, with a Bachelor's degree in Applied Mathematics from University of California, Berkeley. I spent some time working alongside central banks through an 8 month visit in Germany at the Deutsche Bundesbank and with a current research project with the Banco de la Rep&uacute;blica of Colombia. Previously, I did internships in the credit department of Moody's Analytics and in various financial companies, including investment funds. Outside of economics and finance, I like learning about natural language processing and neat ways of modelling text, improving my Brazilian Jiu Jitsu, and spending time with friends and family.   
+I am currently a master canadiate in Nature Management at University of Copenhagen. I broadly interested in plant biogeography, macroecology, especially in Anthropocene! Now I am working on how land use intensity have impact on the plant functional diversity in Europe. I am trying to investigate how human play roles in selection process (e.g., environmental filtering, limiting similarity). I am using taxon-free methods based on functional traits, since taxon-free metrics can often be related to environmental parameters with statistical significance, they offer opportunities for understanding which kinds of species are likely to thrive in which regions as biota adjust to rapidly changing environmental conditions. Moveover, functional traits like common currency like linking different scales (e.g., phenotypic, ecological or metabolic). 
 <br>
 <br>
-Download my [(CV)](https://yaquanchang.github.io/Yaquan_CV/Giant_Hogweed.pdf)
+Download my [CV](https://https://yaquanchang.github.io/Yaquan%20Chang%20CV%200910.pdf)
 <br>
