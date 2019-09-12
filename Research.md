@@ -9,7 +9,7 @@ My research experience mainly refers to the Macroecology, Remote Sensing, and ec
 In my master thesis I am going to invistgate how huam have impact on the functional diversity. Before my master thesis, I did an project out of course scope to invegative the samiliar question but only based on Gribskov, Denmark. I used _LiDAR_ and field derived variables to capture the functional diversity and found the LiDAR derived variables have slightly better performances.
 
 #### Output:
-LiDAR-derived variables as a proxy for functional diversity of woody plant and response to forest management intensity, 2019, _Project out of course scope_ [(PDF)](https://yaquanchang.github.io/Project_Yaquan.pdf)
+**Yaquan Chang**. LiDAR-derived variables as a proxy for functional diversity of woody plant and response to forest management intensity, 2019, _Project out of course scope_ [(PDF)](https://yaquanchang.github.io/Project_Yaquan.pdf)
 
 
 ### What else can species distribution model tell us?
@@ -18,13 +18,13 @@ I did my bachelor thesis and a paper to investigate whether modeled habitat suit
 #### Output: 
 **Yaquan Chang**, Charles P.-A. Bourque. Relating modelled habitat suitability for Abies Balsamea to on the ground species structural characteristics in naturally growing forests, 2019 _Ecological Indicators_ (In revision)
 
-COMPARING BALSAM FIR POTENTIAL SPECIES DISTRIBUTION IN TWO DISTINCT AREAS OF NEW BRUNSWICK, CANADA, 2018, _Bachelor thesis_ [(PDF)](https://yaquanchang.github.io/Thesis_Yaquan.pdf)
+**Yaquan Chang**. COMPARING BALSAM FIR POTENTIAL SPECIES DISTRIBUTION IN TWO DISTINCT AREAS OF NEW BRUNSWICK, CANADA, 2018, _Bachelor thesis_ [(PDF)](https://yaquanchang.github.io/Thesis_Yaquan.pdf)
 
 ### An Upgraded Action Plan for invisive species
 In my master Rural Landscape course, my group and I did an Upgraded Action Plan for the the invisive species Giant Hogweed in Vordingborg Municipality. I used species distribution model to simulate where is suitable for Giant Hogweed to grow then we did a field work to valided it and finally we made a practical action plan to eradicate them.
 
 ##### Output
-Report [(PDF)](https://yaquanchang.github.io/Giant_Hogweed.pdf)
+**Yaquan Chang**, Alfred Figueras Anton, Oriol García Antúnez, Andreas Davidsen, Jens Lindgaard. 2019. How to upgrade current management plans for the invasive species Giant Hogweed in Denmark – a case study from Vordingborg municipality, Zealand. The Euroleague for Life Sciences (ELLS) Scientific Student Conference. Uppsala, Sweden (Poster presentation) and Report [(PDF)](https://yaquanchang.github.io/Giant_Hogweed.pdf)
 
 
 ### Remote Sensing including Light Detection and Ranging (LiDAR) and Unmanned Aerial Vehicle (UAV)
