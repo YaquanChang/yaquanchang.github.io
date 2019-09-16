@@ -38,5 +38,5 @@ I learnt the basic concept of forest dynamic model when I was a undergraduate st
 
 <br>
 <br>
-Download my [CV](https://yaquanchang.github.io/Yaquan%20Chang%20CV%200910.pdf)
+Download my [CV](https://yaquanchang.github.io/Yaquan_CV_0912.pdf)
 <br>
