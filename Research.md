@@ -3,7 +3,7 @@ layout: page
 title: Research 
 permalink: /Research/
 ---
-My research experience mainly refers to the Macroecology, Remote Sensing, and ecological models. I focus on the selection process, asking why there am familiar with R and Matlab, and have some basic experience in Fortran.
+My research experience mainly refers to the Macroecology, Remote Sensing, and ecological models. I focus on the selection process, asking how human have impact on functional diversity. I am familiar with R and Matlab, and have some basic experience in Fortran.
 
 ### How human have impact on the functional diversity?
 In my master thesis I am going to invistgate how huam have impact on the functional diversity. Before my master thesis, I did an project out of course scope to invegative the samiliar question but only based on Gribskov, Denmark. I used _LiDAR_ and field derived variables to capture the functional diversity and found the LiDAR derived variables have slightly better performances.
@@ -20,10 +20,11 @@ I did my bachelor thesis and a paper to investigate whether modeled habitat suit
 
 **Yaquan Chang**. COMPARING BALSAM FIR POTENTIAL SPECIES DISTRIBUTION IN TWO DISTINCT AREAS OF NEW BRUNSWICK, CANADA, 2018, _Bachelor thesis_ [(PDF)](https://yaquanchang.github.io/Thesis_Yaquan.pdf)
 
+
 ### An Upgraded Action Plan for invisive species
 In my master Rural Landscape course, my group and I did an Upgraded Action Plan for the the invisive species Giant Hogweed in Vordingborg Municipality. I used species distribution model to simulate where is suitable for Giant Hogweed to grow then we did a field work to valided it and finally we made a practical action plan to eradicate them.
 
-##### Output
+#### Output
 **Yaquan Chang**, Alfred Figueras Anton, Oriol García Antúnez, Andreas Davidsen, Jens Lindgaard. 2019. How to upgrade current management plans for the invasive species Giant Hogweed in Denmark – a case study from Vordingborg municipality, Zealand. The Euroleague for Life Sciences (ELLS) Scientific Student Conference. Uppsala, Sweden (Poster presentation) and Report [(PDF)](https://yaquanchang.github.io/Giant_Hogweed.pdf)
 
 
@@ -32,6 +33,7 @@ I am crazy about Remote Sensing approach since it really convinent researchers t
 
 #### Output
 Haozhou Wang, **Yaquan Chang**, Chuan Li, Qiurong Liu, Min Zhong, Qinxuan Chen. 2017. Analysis of Imagine Capacity in Resources Survey between Two UAV Photogrammetry Softwares: PIX 4D Mapper and Photoscan. Gansu Science and Technology. 33(22): 46-51 (In Chinese)
+
 
 ### Forest dynamics
 I learnt the basic concept of forest dynamic model when I was a undergraduate student. I ran a process-based dynamic global vegetation model called Lund-Potsdam-Jena model (LPJ model) and calculated water use efficiency (WUE) of the forest in the Yangtze River basin. 
