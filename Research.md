@@ -38,6 +38,9 @@ Haozhou Wang, **Yaquan Chang**, Chuan Li, Qiurong Liu, Min Zhong, Qinxuan Chen. 
 ### Forest dynamics
 I learnt the basic concept of forest dynamic model when I was a undergraduate student. I ran a process-based dynamic global vegetation model called Lund-Potsdam-Jena model (LPJ model) and calculated water use efficiency (WUE) of the forest in the Yangtze River basin. 
 
+#### Output
+Special Award of 14th International Junior Forest Contest, Russian Federal Forest Agency
+
 <br>
 <br>
 Download my [CV](https://yaquanchang.github.io/Yaquan_CV_0912.pdf)
