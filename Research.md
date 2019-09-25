@@ -39,6 +39,7 @@ I learnt the basic concept of the forest dynamic model when I was an undergradua
 
 #### Output
 Special Award of 14th International Junior Forest Contest, Russian Federal Forest Agency
+
 Haozhou Wang, Yaquan Chang, Zenxin Zhang. 04.2016. Yaira Measurement Data Multidimensional Visualization Software. (Software Copywrite. Patent No.: 2016SR178462.; in Chinese) [(PDF)](https://yaquanchang.github.io/Software_Copyright.pdf)
 
 <br>
