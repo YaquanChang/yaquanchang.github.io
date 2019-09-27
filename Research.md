@@ -31,7 +31,7 @@ During my masters Rural Landscape course, my group and I created an Upgraded Act
 I am crazy about the Remote Sensing approach as it’s really convenient for researchers investigating at a larger scale. I have used LiDAR and UAV products, including using LiDAR-derived variables to predict functional diversity (see the first topic). I have also learnt about using UAVs through comparing the performance of different platforms for processing UAV data.
 
 #### Output
-Haozhou Wang, **Yaquan Chang**, Chuan Li, Qiurong Liu, Min Zhong, Qinxuan Chen. 2017. Analysis of Imagine Capacity in Resources Survey between Two UAV Photogrammetry Softwares: PIX 4D Mapper and Photoscan. Gansu Science and Technology. 33(22): 46-51 (In Chinese) [(PDF)](https://yaquanchang.github.io/UAV_Paper.pdf)
+Haozhou Wang, **Yaquan Chang**, Chuan Li, Qiurong Liu, Min Zhong, Qinxuan Chen. 2017. Analysis of Imagine Capacity in Resources Survey between Two UAV Photogrammetry Softwares: PIX 4D Mapper and Photoscan. _Gansu Science and Technology_. 33(22): 46-51 (In Chinese) [(PDF)](https://yaquanchang.github.io/UAV_Paper.pdf)
 
 
 ### Forest dynamics
