@@ -24,7 +24,7 @@ I wrote my bachelors thesis and a paper (in revision) to investigate whether mod
 During my masters Rural Landscape course, my group and I created an Upgraded Action Plan for the invasive species Giant Hogweed in Vordingborg Municipality. We used species distribution models to simulate where is suitable for Giant Hogweed to grow then did fieldwork to validate the model. Finally, we made a practical action plan to eradicate them.
 
 #### Output
-**Yaquan Chang**, Alfred Figueras Anton, Oriol García Antúnez, Andreas Davidsen, Jens Lindgaard. 2019. How to upgrade current management plans for the invasive species Giant Hogweed in Denmark – a case study from Vordingborg municipality, Zealand. The Euroleague for Life Sciences (ELLS) Scientific Student Conference. Uppsala, Sweden (Poster presentation) and paper (In prep)
+**Yaquan Chang**, Alfred Figueras Anton, Oriol García Antúnez, Andreas Davidsen, Jens Lindgaard. 2019. How to upgrade current management plans for the invasive species Giant Hogweed in Denmark – a case study from Vordingborg municipality, Zealand. The Euroleague for Life Sciences (ELLS) Scientific Student Conference. Uppsala, Sweden [(Poster presentation)](https://yaquanchang.github.io/poster.pdf) and paper (In prep)
 
 
 ### Remote Sensing including Light Detection and Ranging (LiDAR) and Unmanned Aerial Vehicle (UAV)
