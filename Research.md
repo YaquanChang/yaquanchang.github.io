@@ -15,7 +15,7 @@ In my master thesis, I am going to investigate human impacts on functional diver
 I wrote my bachelors thesis and a paper (in revision) to investigate whether modeled habitat suitability could explain structural characteristics in a balsam fir dominated stand. I used species distribution models to simulate habitat suitability and related this to field-based site index (SI) and cumulative aboveground biomass (ABG). 
 
 #### Output: 
-**Yaquan Chang**, Charles P.-A. Bourque. Relating modelled habitat suitability for Abies Balsamea to on the ground species structural characteristics in naturally growing forests, 2019 _Ecological Indicators_ (In revision)
+**Yaquan Chang**, Charles P.-A. Bourque.2019. Relating modelled habitat suitability for Abies Balsamea to on the ground species structural characteristics in naturally growing forests, 2019 _Ecological Indicators_ (Accepted)
 
 **Yaquan Chang**. Comparing Balsam Fir Potential Species Distribution in two Distinct Areas of New Brunswick, Canada, 2018, _Bachelor thesis_ [(PDF)](https://yaquanchang.github.io/Thesis_Yaquan.pdf)
 
