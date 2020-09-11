@@ -37,11 +37,11 @@ gems:
 
 
 social:
-  - name: GitHub
-    icon: github
+  - name: Twitter
+    icon: twitter
     username: YaquanChang
-    url: https://github.com/YaquanChang
-    desc: Fork me on GitHub
+    url: https://twitter.com/YaquanChang/
+    desc: Follow me on Twitter
     share: false
 
 
