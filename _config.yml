@@ -44,4 +44,9 @@ social:
     desc: Follow me on Twitter
     share: false
 
-
+  - name: ResearchGate
+    icon: researchgate
+    username: Yaquan Chang
+    url: https://www.researchgate.net/profile/Yaquan_Chang2
+    desc: Connect with me on ResearchGate
+    share: true
