@@ -5,6 +5,15 @@ permalink: /Research/
 ---
 My research experience mainly refers to Macroecology, Remote Sensing, and ecological models. I focus on the selection, dispersal processes, asking how humans impact functional diversity. I am familiar with R, Matlab, and have some basic knowledge of Fortran.
 
+### Geological and climate impact on the plant biodiversity in the Hengduan mountains
+In my PhD, I am investigating and understand the impact of geological and climate processes on plant biodiversity patterns in the Hengduan Mts (HDM) – an exceptional biodiversity hotspot outside the tropics. I use species distribution models based on compiled occurrence data, to develop 1 km resolution biodiversity maps. With close collaboration of geologists and climatologists, I will try to link plant biodiversity patterns to geomorphological and climate processes in the Hengduan mountains.
+
+### Output:
+##### poster:
+Impact of geogloical and climate processes on plant biodiversity patterns in the Hengduan mountains _poster_ [(PDF)](https://yaquanchang.github.io/poster_sdm.pdf)
+
+Phytodiversity associated with habitat heterogeneity across scales: from Eurasia to the Hengduan mountains  _poster_ [(PDF)](https://yaquanchang.github.io/poster_heterogeneity.pdf)
+
 ### Human impacts on functional diversity
 In my master thesis, I am going to investigate human impacts on functional diversity. Before my master thesis, I did a project out of course scope to investigate a similar question but only based on Gribskov, Denmark. I used LiDAR and field derived variables to capture the functional diversity of woody plants and found that LiDAR-derived variables perform slightly better than field measurements.
 
