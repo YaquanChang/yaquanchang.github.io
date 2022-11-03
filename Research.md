@@ -9,10 +9,9 @@ My research experience mainly refers to Macroecology, Remote Sensing, and ecolog
 In my PhD, I am investigating and understand the impact of geological and climate processes on plant biodiversity patterns in the Hengduan Mts (HDM) – an exceptional biodiversity hotspot outside the tropics. I use species distribution models based on compiled occurrence data, to develop 1 km resolution biodiversity maps. With close collaboration of geologists and climatologists, I will try to link plant biodiversity patterns to geomorphological and climate processes in the Hengduan mountains.
 
 ### Output:
-##### poster:
-Impact of geogloical and climate processes on plant biodiversity patterns in the Hengduan mountains _poster_ [(PDF)](https://yaquanchang.github.io/poster_sdm.pdf)
+Impact of geogloical and climate processes on plant biodiversity patterns in the Hengduan mountains _(poster)_ [(PDF)](https://yaquanchang.github.io/poster_sdm.pdf)
 
-Phytodiversity associated with habitat heterogeneity across scales: from Eurasia to the Hengduan mountains  _poster_ [(PDF)](https://yaquanchang.github.io/poster_heterogeneity.pdf)
+Phytodiversity associated with habitat heterogeneity across scales: from Eurasia to the Hengduan mountains  _(poster)_ [(PDF)](https://yaquanchang.github.io/poster_heterogeneity.pdf)
 
 ### Human impacts on functional diversity
 In my master thesis, I am going to investigate human impacts on functional diversity. Before my master thesis, I did a project out of course scope to investigate a similar question but only based on Gribskov, Denmark. I used LiDAR and field derived variables to capture the functional diversity of woody plants and found that LiDAR-derived variables perform slightly better than field measurements.
@@ -27,13 +26,6 @@ I wrote my bachelor's thesis and a paper to investigate whether modelled habitat
 **Yaquan Chang**, Charles P.-A. Bourque.2019. Relating modelled habitat suitability for Abies Balsamea to on the ground species structural characteristics in naturally growing forests, 2019 _Ecological Indicators_ 10.1016/j.ecolind.2019.105981 [(PDF)](https://yaquanchang.github.io/MS.pdf)
 
 **Yaquan Chang**. Comparing Balsam Fir Potential Species Distribution in two Distinct Areas of New Brunswick, Canada, 2018, _Bachelor thesis_ [(PDF)](https://yaquanchang.github.io/Thesis_Yaquan.pdf)
-
-
-### An Upgraded Action Plan for invasive species
-During my master‘s Rural Landscape course, my group and I created an Upgraded Action Plan for the invasive species Giant Hogweed in Vordingborg Municipality. We used species distribution models to simulate where is suitable for Giant Hogweed to grow then did fieldwork to validate the model. Finally, we made a practical action plan to eradicate them.
-
-#### Output
-**Yaquan Chang**, Alfred Figueras Anton, Oriol García Antúnez, Andreas Davidsen, Jens Lindgaard. 2019. How to upgrade current management plans for the invasive species Giant Hogweed in Denmark – a case study from Vordingborg municipality, Zealand. The Euroleague for Life Sciences (ELLS) Scientific Student Conference. Uppsala, Sweden [(Poster presentation)](https://yaquanchang.github.io/poster.pdf) and paper (In prep)
 
 
 ### Remote Sensing including Light Detection and Ranging (LiDAR) and Unmanned Aerial Vehicle (UAV)
