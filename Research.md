@@ -11,7 +11,7 @@ In my PhD, I am investigating and understand the impact of geological and climat
 ### Output:
 Impact of geogloical and climate processes on plant biodiversity patterns in the Hengduan mountains _(poster)_ [(PDF)](https://yaquanchang.github.io/poster_sdm.pdf)
 
-Phytodiversity associated with habitat heterogeneity across scales: from Eurasia to the Hengduan mountains  _(poster)_ [(PDF)](https://yaquanchang.github.io/poster_heterogeneity.pdf)
+Phytodiversity is associated with habitat heterogeneity from Eurasia to the Hengduan Mountains  _(paper)_ [(PDF)](https://yaquanchang.github.io/NP2023.pdf)
 
 ### Human impacts on functional diversity
 In my master thesis, I am going to investigate human impacts on functional diversity. Before my master thesis, I did a project out of course scope to investigate a similar question but only based on Gribskov, Denmark. I used LiDAR and field derived variables to capture the functional diversity of woody plants and found that LiDAR-derived variables perform slightly better than field measurements.
